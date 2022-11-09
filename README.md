@@ -98,11 +98,11 @@
 
 <p >
 
-[![Linkedin Badge](https://img.shields.io/badge/-VasuDevrani-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/vasu-devrani)](https://www.linkedin.com/in/sahil-arora-4a3889227/)
-[![Instagram Badge](https://img.shields.io/badge/-vasu_devrani-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/vasu_devrani/)](https://www.instagram.com/im_sahil_002/)
-[![Twitter Badge](https://img.shields.io/badge/-si_vasu-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/si_vasu)](https://twitter.com/arorasahil002)
-[![Gmail Badge](https://img.shields.io/badge/Vasu_Devrani@gmail.com-white?style=for-the-badge&logo=Gmail&logoColor=&link=mailto:vasu2002devrani@gmail.com)](mailto:sahilaroraji2002@gmail.com)
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://www.leetcode.com/vasudevrani)](https://leetcode.com/sahilaroraji2002/)
+[![Linkedin Badge](https://img.shields.io/badge/-SahilArora-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-arora-4a3889227/)](https://www.linkedin.com/in/sahil-arora-4a3889227/)
+[![Instagram Badge](https://img.shields.io/badge/-Sahil_Arora-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/im_sahil_002/)](https://www.instagram.com/im_sahil_002/)
+[![Twitter Badge](https://img.shields.io/badge/-Arora-Sahil-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/arorasahil002)](https://twitter.com/arorasahil002)
+[![Gmail Badge](https://img.shields.io/badge/Sahil_Arora@gmail.com-white?style=for-the-badge&logo=Gmail&logoColor=&link=mailto:sahilaroraji2002@gmail.com)](mailto:sahilaroraji2002@gmail.com)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/sahilaroraji2002/)](https://leetcode.com/sahilaroraji2002/)
 
  </p>
 </br>
