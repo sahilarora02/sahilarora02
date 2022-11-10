@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="350" src="./github-header-image.png">
+<!-- <img align="right" alt="coding" width="350" src="./github-header-image.png"> -->
 <h1 align="center"> Hey, I am Sahil Arora!</h1>
 <!-- h -->
 <span style="color:#39FF14"><h2 align="center" color="#39FF14">Full Stack Web Developer | Open Source Enthusiast </h2></span>
