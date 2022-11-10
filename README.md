@@ -98,9 +98,9 @@
 
 <p >
 
-[![Linkedin Badge](https://img.shields.io/badge/-SahilArora-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-arora-4a3889227/)](https://www.linkedin.com/in/sahil-arora-4a3889227/)
+[![Linkedin Badge](https://img.shields.io/badge/-Sahil_Arora-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-arora-4a3889227/)](https://www.linkedin.com/in/sahil-arora-4a3889227/)
 [![Instagram Badge](https://img.shields.io/badge/-Sahil_Arora-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/im_sahil_002/)](https://www.instagram.com/im_sahil_002/)
-[![Twitter Badge](https://img.shields.io/badge/-arorasahil002-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/arorasahil002)](https://twitter.com/arorasahil002)
+[![Twitter Badge](https://img.shields.io/badge/-arora_sahil-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/arorasahil002)](https://twitter.com/arorasahil002)
 [![Gmail Badge](https://img.shields.io/badge/Sahil_Arora-white?style=for-the-badge&logo=Gmail&logoColor=&link=mailto:sahilaroraji2002@gmail.com)](mailto:sahilaroraji2002@gmail.com)
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/sahilaroraji2002/)](https://leetcode.com/sahilaroraji2002/)
 
