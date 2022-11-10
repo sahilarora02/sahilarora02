@@ -113,7 +113,7 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sahilarora02&bg_color=090132&color=009dff&line=0287d9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<a href="https://github.com/2802AdityA">
+<a href="https://github.com/sahilarora02">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilarora02&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilarora02&theme=algolia&hide=c%2B%2B&layout=compact"/>
 </a>
