@@ -109,7 +109,7 @@
 
 <p >
  
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sahilarora02&bg_color=090132&color=009dff&line=0287d9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sahil's github activity graph](https://activity-graph.herokuapp.com/graph?username=sahilarora02&bg_color=090132&color=009dff&line=0287d9&point=ffffff&area=true&hide_border=true)](https://github.com/sahilarora02/github-readme-activity-graph)
 
 
 <a href="https://github.com/sahilarora02">
