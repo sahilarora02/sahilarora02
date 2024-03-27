@@ -11,6 +11,8 @@ Passionate about coding, Transforming ideas into code with a passion for buildin
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on Development Projects
 
+  ![](https://komarev.com/ghpvc/?username=sahilarora02)
+
 <a href="https://www.github.com/sahilarora02" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sahilarora02?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.x.com/arorasahil002" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/arorasahil002?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
