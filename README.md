@@ -14,11 +14,10 @@ Passionate about building scalable applications and transforming ideas into impa
 
 ## Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilarora02)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-arora-4a3889227)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.x.com/arorasahil002)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2965F1?style=for-the-badge&logo=hashnode&logoColor=white)](https://arora002.hashnode.dev)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/sahilarora02)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/arora_sahil_002/)
 
 ## Current Experience
 
